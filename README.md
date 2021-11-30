@@ -6,7 +6,7 @@
 
 <p>Berikut langkah-langkah untuk menjalankan website ini:<br>
 1. Pastikan sudah menginstal XAMPP<br>
-2. Download repositori ini ke PC anda dan pindahkan ke dalam folder xampp/tomcat/webapps<br>
+2. Download repositori ini ke PC anda dan pindahkan ke dalam folder xampp/tomcat/webapps/Tugas_JSP1<br>
 3. Jalankan Apache dan juga MySql, buka phpMyAdmin kemudian buat database dengan nama pembayaran_kas<br>
 4. Import database pembayaran_kas.sql  yang anda download tadi<br>
 5. Setelah berhasil import database, jalankan tomcat di XAMPP<br>
