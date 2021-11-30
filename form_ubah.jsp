@@ -53,12 +53,12 @@
                 <tr>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><input type="submit" name="button_submit" value="Ubah"></td>
+                    <td><input type="submit" name="button_submit" value="Edit"></td>
                 </tr>
             </table>
             <% }%>
         </form>
-        <a href="./">Kembali</a>
+        <a href="./">Back</a>
     </center>
 
 </body>
