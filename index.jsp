@@ -6,12 +6,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pembayaran Kas</title>
+    <title>Penerimaan Uang Kas Bulanan</title>
 </head>
 
 <body>
     <center>
-        <h1>Pembayaran Kas</h1>
+        <h1>Penerimaan Uang Kas Bulanan</h1>
         <table border="1">
             <thead>
                 <tr>
