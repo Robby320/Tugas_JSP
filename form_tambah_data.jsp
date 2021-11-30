@@ -47,11 +47,11 @@
                 <tr>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
-                    <td><input type="submit" name="button_submit" value="Simpan"></td>
+                    <td><input type="submit" name="button_submit" value="Save"></td>
                 </tr>
             </table>
         </form>
-        <a href="./">Kembali</a>
+        <a href="./">Back</a>
     </center>
 
 </body>
