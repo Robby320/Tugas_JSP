@@ -36,8 +36,8 @@
                     <td><%= rs.getString("kelas")%></td>
                     <td><%= rs.getString("nominal")%></td>
                     <td><%= rs.getString("tanggal_bayar")%></td>
-                    <td><a href="hapus.jsp?id=<%= rs.getString("id")%>">Hapus</a>|<a
-                            href="form_ubah.jsp?id=<%= rs.getString("id")%>">Ubah</a></td>
+                    <td><a href="hapus.jsp?id=<%= rs.getString("id")%>">Delete</a>|<a
+                            href="form_ubah.jsp?id=<%= rs.getString("id")%>">Edit</a></td>
                 </tr>
                 <% } %>
             </tbody>
